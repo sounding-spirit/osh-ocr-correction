@@ -4709,48 +4709,30 @@
                              HPOS="3693">is</String>
                   </TextLine>
                   <TextLine HEIGHT="54" WIDTH="857" VPOS="2614" HPOS="2070">
-                     <String WC="0.73714286088943481"
-                             CONTENT="placed."
-                             HEIGHT="43"
-                             WIDTH="139"
-                             VPOS="2616"
-                             HPOS="2070">placed.</String>
-                     <SP WIDTH="45" VPOS="2618" HPOS="2210"> </SP>
-                     <String WC="0.8399999737739563"
-                             CONTENT="See"
-                             HEIGHT="33"
-                             WIDTH="68"
-                             VPOS="2619"
-                             HPOS="2256">See</String>
-                     <SP WIDTH="21" VPOS="2619" HPOS="2325"> </SP>
-                     <String WC="0.96571427583694458"
-                             CONTENT="“Dotted"
-                             HEIGHT="34"
-                             WIDTH="161"
-                             VPOS="2619"
-                             HPOS="2347">“Dotted</String>
-                     <SP WIDTH="21" VPOS="2620" HPOS="2509"> </SP>
-                     <String WC="0.93285715579986572"
-                             CONTENT="notes,”"
-                             HEIGHT="41"
-                             WIDTH="136"
-                             VPOS="2620"
-                             HPOS="2531">notes,”</String>
-                     <SP WIDTH="22" VPOS="2621" HPOS="2668"> </SP>
-                     <String WC="0.80750000476837158"
-                             CONTENT="page"
-                             HEIGHT="36"
-                             WIDTH="96"
-                             VPOS="2630"
-                             HPOS="2691">page</String>
-                     <SP WIDTH="22" VPOS="2631" HPOS="2788"> </SP>
-                     <String WC="0.90499997138977051"
-                             CONTENT="seven."
-                             HEIGHT="26"
-                             WIDTH="116"
-                             VPOS="2630"
-                             HPOS="2811">seven.</String>
-                  </TextLine>
+                                                  <String WC="0.73714286088943481" CONTENT="placed."
+                                                  HEIGHT="43" WIDTH="139" VPOS="2616" HPOS="2070"
+                                                  >placed.</String>
+                                                  <SP WIDTH="45" VPOS="2618" HPOS="2210"> </SP>
+                                                  <String WC="0.8399999737739563" CONTENT="See"
+                                                  HEIGHT="33" WIDTH="68" VPOS="2619" HPOS="2256"
+                                                  >See</String>
+                                                  <SP WIDTH="21" VPOS="2619" HPOS="2325"> </SP>
+                                                  <String WC="0.96571427583694458" CONTENT="“Dotted"
+                                                  HEIGHT="34" WIDTH="161" VPOS="2619" HPOS="2347"
+                                                  >“Dotted</String>
+                                                  <SP WIDTH="21" VPOS="2620" HPOS="2509"> </SP>
+                                                  <String WC="0.93285715579986572" CONTENT="notes,”"
+                                                  HEIGHT="41" WIDTH="136" VPOS="2620" HPOS="2531"
+                                                  >notes,”</String>
+                                                  <SP WIDTH="22" VPOS="2621" HPOS="2668"> </SP>
+                                                  <String WC="0.80750000476837158" CONTENT="page"
+                                                  HEIGHT="36" WIDTH="96" VPOS="2630" HPOS="2691"
+                                                  >page</String>
+                                                  <SP WIDTH="22" VPOS="2631" HPOS="2788"> </SP>
+                                                  <String WC="0.90499997138977051" CONTENT="seven."
+                                                  HEIGHT="26" WIDTH="116" VPOS="2630" HPOS="2811"
+                                                  >seven.</String>
+                                                </TextLine>
                   <TextLine HEIGHT="52" WIDTH="1106" VPOS="2672" HPOS="2160">
                      <String WC="0.68333333730697632"
                              CONTENT="15."

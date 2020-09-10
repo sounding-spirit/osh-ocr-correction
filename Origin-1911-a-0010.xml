@@ -1833,30 +1833,50 @@
                   <HYP CONTENT="­"/>
                </TextLine>
                <TextLine HEIGHT="50" WIDTH="578" VPOS="1607" HPOS="528">
-                                                <String WC="0.63666665554046631" CONTENT="ful"
-                                                  HEIGHT="32" WIDTH="60" VPOS="1612" HPOS="528"
-                                                  SUBS_TYPE="HypPart2" SUBS_CONTENT="helpful"
-                                                  >ful</String>
-                                                <SP WIDTH="23" VPOS="1611" HPOS="589"> </SP>
-                                                <String WC="0.625" CONTENT="in" HEIGHT="32"
-                                                  WIDTH="40" VPOS="1611" HPOS="613">in</String>
-                                                <SP WIDTH="24" VPOS="1614" HPOS="654"> </SP>
-                                                <String WC="0.61666667461395264" CONTENT="the"
-                                                  HEIGHT="32" WIDTH="64" VPOS="1612" HPOS="679"
-                                                  >the</String>
-                                                <SP WIDTH="26" VPOS="1622" HPOS="744"> </SP>
-                                                <String WC="0.64800000190734863" CONTENT="study"
-                                                  HEIGHT="45" WIDTH="114" VPOS="1611" HPOS="771"
-                                                  >study</String>
-                                                <SP WIDTH="24" VPOS="1622" HPOS="886"> </SP>
-                                                <String WC="0.46500000357627869" CONTENT="of"
-                                                  HEIGHT="33" WIDTH="41" VPOS="1612" HPOS="911"
-                                                  >of</String>
-                                                <SP WIDTH="24" VPOS="1611" HPOS="953"> </SP>
-                                                <String WC="0.75666666030883789" CONTENT="musie."
-                                                  HEIGHT="32" WIDTH="128" VPOS="1612" HPOS="978"
-                                                  >music.</String>
-                                        </TextLine>
+                  <String WC="0.63666665554046631"
+                          CONTENT="ful"
+                          HEIGHT="32"
+                          WIDTH="60"
+                          VPOS="1612"
+                          HPOS="528"
+                          SUBS_TYPE="HypPart2"
+                          SUBS_CONTENT="helpful">ful</String>
+                  <SP WIDTH="23" VPOS="1611" HPOS="589"> </SP>
+                  <String WC="0.625"
+                          CONTENT="in"
+                          HEIGHT="32"
+                          WIDTH="40"
+                          VPOS="1611"
+                          HPOS="613">in</String>
+                  <SP WIDTH="24" VPOS="1614" HPOS="654"> </SP>
+                  <String WC="0.61666667461395264"
+                          CONTENT="the"
+                          HEIGHT="32"
+                          WIDTH="64"
+                          VPOS="1612"
+                          HPOS="679">the</String>
+                  <SP WIDTH="26" VPOS="1622" HPOS="744"> </SP>
+                  <String WC="0.64800000190734863"
+                          CONTENT="study"
+                          HEIGHT="45"
+                          WIDTH="114"
+                          VPOS="1611"
+                          HPOS="771">study</String>
+                  <SP WIDTH="24" VPOS="1622" HPOS="886"> </SP>
+                  <String WC="0.46500000357627869"
+                          CONTENT="of"
+                          HEIGHT="33"
+                          WIDTH="41"
+                          VPOS="1612"
+                          HPOS="911">of</String>
+                  <SP WIDTH="24" VPOS="1611" HPOS="953"> </SP>
+                  <String WC="0.75666666030883789"
+                          CONTENT="musie."
+                          HEIGHT="32"
+                          WIDTH="128"
+                          VPOS="1612"
+                          HPOS="978">musie.</String>
+               </TextLine>
                <TextLine HEIGHT="59" WIDTH="1541" VPOS="1673" HPOS="579">
                   <String WC="0.74000000953674316"
                           CONTENT="13."
@@ -4303,49 +4323,83 @@
                           HPOS="3781">the</String>
                </TextLine>
                <TextLine HEIGHT="63" WIDTH="1492" VPOS="1712" HPOS="2259">
-                                                <String WC="0.85799998044967651" CONTENT="great"
-                                                  HEIGHT="42" WIDTH="108" VPOS="1720" HPOS="2259"
-                                                  >great</String>
-                                                <SP WIDTH="23" VPOS="1719" HPOS="2368"> </SP>
-                                                <String WC="0.76999998092651367" CONTENT="“Master"
-                                                  HEIGHT="35" WIDTH="185" VPOS="1719" HPOS="2392"
-                                                  >“Master</String>
-                                                <SP WIDTH="25" VPOS="1730" HPOS="2578"> </SP>
-                                                <String WC="0.7149999737739563" CONTENT="of"
-                                                  HEIGHT="32" WIDTH="41" VPOS="1720" HPOS="2604"
-                                                  >of</String>
-                                                <SP WIDTH="24" VPOS="1719" HPOS="2646"> </SP>
-                                                <String WC="1." CONTENT="all" HEIGHT="32" WIDTH="50"
-                                                  VPOS="1720" HPOS="2671">all</String>
-                                                <SP WIDTH="23" VPOS="1720" HPOS="2722"> </SP>
-                                                <String WC="0.89833331108093262" CONTENT="musie”"
-                                                  HEIGHT="34" WIDTH="157" VPOS="1720" HPOS="2746"
-                                                  >music”</String>
-                                                <SP WIDTH="23" VPOS="1721" HPOS="2904"> </SP>
-                                                <String WC="0.78600001335144043"
-                                                  CONTENT="accomplish" HEIGHT="43" WIDTH="228"
-                                                  VPOS="1720" HPOS="2928">accomplish</String>
-                                                <SP WIDTH="25" VPOS="1722" HPOS="3157"> </SP>
-                                                <String WC="0.70249998569488525" CONTENT="that"
-                                                  HEIGHT="32" WIDTH="86" VPOS="1722" HPOS="3183"
-                                                  >that</String>
-                                                <SP WIDTH="23" VPOS="1725" HPOS="3270"> </SP>
-                                                <String WC="0.72666668891906738" CONTENT="whereunto"
-                                                  HEIGHT="33" WIDTH="218" VPOS="1722" HPOS="3294"
-                                                  >whereunto</String>
-                                                <SP WIDTH="27" VPOS="1725" HPOS="3513"> </SP>
-                                                <String WC="0.68000000715255737" CONTENT="it"
-                                                  HEIGHT="30" WIDTH="31" VPOS="1725" HPOS="3541"
-                                                  >it</String>
-                                                <SP WIDTH="25" VPOS="1723" HPOS="3573"> </SP>
-                                                <String WC="0.70999997854232788" CONTENT="is"
-                                                  HEIGHT="31" WIDTH="31" VPOS="1724" HPOS="3599"
-                                                  >is</String>
-                                                <SP WIDTH="25" VPOS="1733" HPOS="3631"> </SP>
-                                                <String WC="0.87199997901916504" CONTENT="sent."
-                                                  HEIGHT="33" WIDTH="94" VPOS="1726" HPOS="3657"
-                                                  >sent.</String>
-                                        </TextLine>
+                  <String WC="0.85799998044967651"
+                          CONTENT="great"
+                          HEIGHT="42"
+                          WIDTH="108"
+                          VPOS="1720"
+                          HPOS="2259">great</String>
+                  <SP WIDTH="23" VPOS="1719" HPOS="2368"> </SP>
+                  <String WC="0.76999998092651367"
+                          CONTENT="“Master"
+                          HEIGHT="35"
+                          WIDTH="185"
+                          VPOS="1719"
+                          HPOS="2392">“Master</String>
+                  <SP WIDTH="25" VPOS="1730" HPOS="2578"> </SP>
+                  <String WC="0.7149999737739563"
+                          CONTENT="of"
+                          HEIGHT="32"
+                          WIDTH="41"
+                          VPOS="1720"
+                          HPOS="2604">of</String>
+                  <SP WIDTH="24" VPOS="1719" HPOS="2646"> </SP>
+                  <String WC="1."
+                          CONTENT="all"
+                          HEIGHT="32"
+                          WIDTH="50"
+                          VPOS="1720"
+                          HPOS="2671">all</String>
+                  <SP WIDTH="23" VPOS="1720" HPOS="2722"> </SP>
+                  <String WC="0.89833331108093262"
+                          CONTENT="musie”"
+                          HEIGHT="34"
+                          WIDTH="157"
+                          VPOS="1720"
+                          HPOS="2746">musie”</String>
+                  <SP WIDTH="23" VPOS="1721" HPOS="2904"> </SP>
+                  <String WC="0.78600001335144043"
+                          CONTENT="accomplish"
+                          HEIGHT="43"
+                          WIDTH="228"
+                          VPOS="1720"
+                          HPOS="2928">accomplish</String>
+                  <SP WIDTH="25" VPOS="1722" HPOS="3157"> </SP>
+                  <String WC="0.70249998569488525"
+                          CONTENT="that"
+                          HEIGHT="32"
+                          WIDTH="86"
+                          VPOS="1722"
+                          HPOS="3183">that</String>
+                  <SP WIDTH="23" VPOS="1725" HPOS="3270"> </SP>
+                  <String WC="0.72666668891906738"
+                          CONTENT="whereunto"
+                          HEIGHT="33"
+                          WIDTH="218"
+                          VPOS="1722"
+                          HPOS="3294">whereunto</String>
+                  <SP WIDTH="27" VPOS="1725" HPOS="3513"> </SP>
+                  <String WC="0.68000000715255737"
+                          CONTENT="it"
+                          HEIGHT="30"
+                          WIDTH="31"
+                          VPOS="1725"
+                          HPOS="3541">it</String>
+                  <SP WIDTH="25" VPOS="1723" HPOS="3573"> </SP>
+                  <String WC="0.70999997854232788"
+                          CONTENT="is"
+                          HEIGHT="31"
+                          WIDTH="31"
+                          VPOS="1724"
+                          HPOS="3599">is</String>
+                  <SP WIDTH="25" VPOS="1733" HPOS="3631"> </SP>
+                  <String WC="0.87199997901916504"
+                          CONTENT="sent."
+                          HEIGHT="33"
+                          WIDTH="94"
+                          VPOS="1726"
+                          HPOS="3657">sent.</String>
+               </TextLine>
                <TextLine HEIGHT="47" WIDTH="296" VPOS="1810" HPOS="3409">
                   <String WC="1."
                           CONTENT="J."
