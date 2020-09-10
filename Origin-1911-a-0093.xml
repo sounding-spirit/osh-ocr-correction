@@ -1,0 +1,1648 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="https://raw.githubusercontent.com/sounding-spirit/ocr-correction/master/alto-style.css"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v2#"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto-v2.0.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2020-06-16</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>ABBYY</softwareCreator>
+               <softwareName>ABBYY FineReader Engine</softwareName>
+               <softwareVersion>12</softwareVersion>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Styles/>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="3449" WIDTH="3994">
+         <TopMargin HEIGHT="336" WIDTH="3994" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2472" WIDTH="166" VPOS="336" HPOS="0"/>
+         <RightMargin HEIGHT="2472" WIDTH="405" VPOS="336" HPOS="3589"/>
+         <BottomMargin HEIGHT="641" WIDTH="3994" VPOS="2808" HPOS="0"/>
+         <PrintSpace HEIGHT="2472" WIDTH="3423" VPOS="336" HPOS="166">
+            <TextBlock ID="Page1_Block1"
+                       HEIGHT="82"
+                       WIDTH="383"
+                       VPOS="497"
+                       HPOS="238"
+                       language="en-US">
+               <Shape>
+                  <Polygon POINTS="409,498 440,498 440,499 462,499 462,500 621,500 621,563 536,563 536,564 389,564 389,565 384,565 384,566 378,566 378,567 374,567 374,568 369,568 369,569 364,569 364,570 359,570 359,571 354,571 354,572 350,572 350,573 344,573 344,574 338,574 338,575 331,575 331,576 321,576 321,577 306,577 306,578 245,578 245,579 238,579 238,517 243,517 243,516 288,516 288,515 315,515 315,514 325,514 325,513 334,513 334,512 340,512 340,511 345,511 345,510 350,510 350,509 355,509 355,508 359,508 359,507 364,507 364,506 369,506 369,505 373,505 373,504 378,504 378,503 383,503 383,502 389,502 389,501 390,501 390,500 396,500 396,499 409,499 409,498"/>
+               </Shape>
+               <TextLine HEIGHT="66" WIDTH="366" VPOS="505" HPOS="246">
+                  <String WC="0.43999999761581421"
+                          CONTENT="Key"
+                          HEIGHT="47"
+                          WIDTH="85"
+                          VPOS="520"
+                          HPOS="246">Key</String>
+                  <SP WIDTH="21" VPOS="528" HPOS="332"> </SP>
+                  <String WC="0.41999998688697815"
+                          CONTENT="of"
+                          HEIGHT="41"
+                          WIDTH="46"
+                          VPOS="520"
+                          HPOS="354">of</String>
+                  <SP WIDTH="16" VPOS="519" HPOS="401"> </SP>
+                  <String WC="0.37000000476837158"
+                          CONTENT="a"
+                          HEIGHT="31"
+                          WIDTH="32"
+                          VPOS="522"
+                          HPOS="418">a</String>
+                  <SP WIDTH="23" VPOS="520" HPOS="451"> </SP>
+                  <String WC="0.67166668176651001"
+                          CONTENT="Minor."
+                          HEIGHT="36"
+                          WIDTH="137"
+                          VPOS="518"
+                          HPOS="475">Minor.</String>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="Page1_Block2"
+                       HEIGHT="271"
+                       WIDTH="1023"
+                       VPOS="336"
+                       HPOS="1294"
+                       language="en-US">
+               <Shape>
+                  <Polygon POINTS="1699,341 2085,341 2085,342 2106,342 2106,343 2118,343 2118,344 2137,344 2137,345 2146,345 2146,346 2156,346 2156,347 2168,347 2168,348 2185,348 2185,349 2315,349 2315,350 2316,350 2316,485 2317,485 2317,591 2316,591 2316,600 2284,600 2284,601 2193,601 2193,600 2173,600 2173,599 2160,599 2160,598 2150,598 2150,597 1317,597 1317,596 1296,596 1296,585 1297,585 1297,490 1296,490 1296,344 1408,344 1408,343 1696,343 1696,342 1699,342 1699,341"/>
+               </Shape>
+               <TextLine HEIGHT="85" WIDTH="958" VPOS="345" HPOS="1352">
+                  <String WC="0.76249998807907104"
+                          CONTENT="VALE"
+                          HEIGHT="55"
+                          WIDTH="196"
+                          VPOS="363"
+                          HPOS="1352">VALE</String>
+                  <SP WIDTH="36" VPOS="364" HPOS="1549"> </SP>
+                  <String WC="0.77999997138977051"
+                          CONTENT="OF"
+                          HEIGHT="51"
+                          WIDTH="94"
+                          VPOS="363"
+                          HPOS="1586">OF</String>
+                  <SP WIDTH="36" VPOS="362" HPOS="1681"> </SP>
+                  <String WC="0.62999999523162842"
+                          CONTENT="SORROW."
+                          HEIGHT="60"
+                          WIDTH="340"
+                          VPOS="358"
+                          HPOS="1718">SORROW.</String>
+                  <SP WIDTH="74" VPOS="354" HPOS="2059"> </SP>
+                  <String WC="0.80500000715255737"
+                          CONTENT="P-"
+                          HEIGHT="57"
+                          WIDTH="64"
+                          VPOS="357"
+                          HPOS="2134">P-</String>
+                  <SP WIDTH="26" VPOS="357" HPOS="2199"> </SP>
+                  <String WC="0.63999998569488525"
+                          CONTENT="M."
+                          HEIGHT="51"
+                          WIDTH="84"
+                          VPOS="357"
+                          HPOS="2226">M.</String>
+               </TextLine>
+               <TextLine HEIGHT="60" WIDTH="753" VPOS="458" HPOS="1470">
+                  <String WC="1."
+                          CONTENT="*‘"
+                          HEIGHT="13"
+                          WIDTH="18"
+                          VPOS="475"
+                          HPOS="1470">*‘</String>
+                  <SP WIDTH="10" VPOS="476" HPOS="1488"> </SP>
+                  <String WC="0.64666664600372314"
+                          CONTENT="For"
+                          HEIGHT="27"
+                          WIDTH="64"
+                          VPOS="475"
+                          HPOS="1498">For</String>
+                  <SP WIDTH="11" VPOS="482" HPOS="1562"> </SP>
+                  <String WC="0.68500000238418579"
+                          CONTENT="we"
+                          HEIGHT="18"
+                          WIDTH="50"
+                          VPOS="482"
+                          HPOS="1573">we</String>
+                  <SP WIDTH="11" VPOS="482" HPOS="1623"> </SP>
+                  <String WC="0.82999998331069946"
+                          CONTENT="are"
+                          HEIGHT="20"
+                          WIDTH="57"
+                          VPOS="481"
+                          HPOS="1634">are</String>
+                  <SP WIDTH="11" VPOS="481" HPOS="1691"> </SP>
+                  <String WC="0.76800000667572021"
+                          CONTENT="saved"
+                          HEIGHT="28"
+                          WIDTH="97"
+                          VPOS="472"
+                          HPOS="1702">saved</String>
+                  <SP WIDTH="12" VPOS="472" HPOS="1799"> </SP>
+                  <String WC="0.49000000953674316"
+                          CONTENT="by"
+                          HEIGHT="35"
+                          WIDTH="44"
+                          VPOS="471"
+                          HPOS="1811">by</String>
+                  <SP WIDTH="11" VPOS="472" HPOS="1855"> </SP>
+                  <String WC="0.90166664123535156"
+                          CONTENT="hope.’&#34;—Rom."
+                          HEIGHT="36"
+                          WIDTH="246"
+                          VPOS="470"
+                          HPOS="1866">hope.’"—Rom.</String>
+                  <SP WIDTH="13" VPOS="468" HPOS="2112"> </SP>
+                  <String WC="0.43999999761581421"
+                          CONTENT="8"
+                          HEIGHT="28"
+                          WIDTH="17"
+                          VPOS="469"
+                          HPOS="2125">8</String>
+                  <SP WIDTH="11" VPOS="470" HPOS="2142"> </SP>
+                  <String WC="7.9999998211860657e-002"
+                          CONTENT=":"
+                          HEIGHT="20"
+                          WIDTH="10"
+                          VPOS="477"
+                          HPOS="2153">:</String>
+                  <SP WIDTH="15" VPOS="469" HPOS="2163"> </SP>
+                  <String WC="0.40999999642372131"
+                          CONTENT="24."
+                          HEIGHT="28"
+                          WIDTH="45"
+                          VPOS="469"
+                          HPOS="2178">24.</String>
+               </TextLine>
+               <TextLine HEIGHT="32" WIDTH="114" VPOS="556" HPOS="1303">
+                  <String WC="1."
+                          CONTENT="1"
+                          HEIGHT="31"
+                          WIDTH="21"
+                          VPOS="557"
+                          HPOS="1303">1</String>
+                  <SP WIDTH="70" VPOS="557" HPOS="1324"> </SP>
+                  <String WC="1."
+                          CONTENT="2"
+                          HEIGHT="31"
+                          WIDTH="23"
+                          VPOS="556"
+                          HPOS="1394">2</String>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="Page1_Block3"
+                       HEIGHT="205"
+                       WIDTH="501"
+                       VPOS="336"
+                       HPOS="3052"
+                       language="en-US">
+               <Shape>
+                  <Polygon POINTS="3467,337 3552,337 3552,479 3553,479 3553,534 3463,534 3463,535 3449,535 3449,536 3395,536 3395,537 3303,537 3303,538 3157,538 3157,539 3148,539 3148,540 3055,540 3055,482 3054,482 3054,343 3155,343 3155,342 3158,342 3158,341 3301,341 3301,340 3343,340 3343,339 3447,339 3447,338 3467,338 3467,337"/>
+               </Shape>
+               <TextLine HEIGHT="61" WIDTH="74" VPOS="344" HPOS="3471">
+                  <String WC="0.30500000715255737"
+                          CONTENT="83"
+                          HEIGHT="61"
+                          WIDTH="74"
+                          VPOS="344"
+                          HPOS="3471">83</String>
+               </TextLine>
+               <TextLine HEIGHT="46" WIDTH="395" VPOS="487" HPOS="3062">
+                  <String WC="0.70888888835906982"
+                          CONTENT="Published"
+                          HEIGHT="37"
+                          WIDTH="208"
+                          VPOS="492"
+                          HPOS="3062">Published</String>
+                  <SP WIDTH="21" VPOS="491" HPOS="3271"> </SP>
+                  <String WC="0.45500001311302185"
+                          CONTENT="in"
+                          HEIGHT="36"
+                          WIDTH="42"
+                          VPOS="490"
+                          HPOS="3293">in</String>
+                  <SP WIDTH="21" VPOS="491" HPOS="3336"> </SP>
+                  <String WC="0.65600001811981201"
+                          CONTENT="1769."
+                          HEIGHT="40"
+                          WIDTH="99"
+                          VPOS="489"
+                          HPOS="3358">1769.</String>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="Page1_Block4"
+                       HEIGHT="48"
+                       WIDTH="131"
+                       VPOS="809"
+                       HPOS="1294"
+                       language="en-US">
+               <Shape>
+                  <Polygon POINTS="1410,809 1424,809 1424,810 1425,810 1425,856 1411,856 1411,857 1294,857 1294,810 1410,810 1410,809"/>
+               </Shape>
+               <TextLine HEIGHT="32" WIDTH="113" VPOS="817" HPOS="1303">
+                  <String WC="0.51999998092651367"
+                          CONTENT="1"
+                          HEIGHT="31"
+                          WIDTH="21"
+                          VPOS="818"
+                          HPOS="1303">1</String>
+                  <SP WIDTH="68" VPOS="818" HPOS="1325"> </SP>
+                  <String WC="1."
+                          CONTENT="2"
+                          HEIGHT="30"
+                          WIDTH="22"
+                          VPOS="818"
+                          HPOS="1394">2</String>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="Page1_Block5"
+                       HEIGHT="174"
+                       WIDTH="3141"
+                       VPOS="1008"
+                       HPOS="420"
+                       language="en-US">
+               <Shape>
+                  <Polygon POINTS="3546,1020 3560,1020 3560,1062 3561,1062 3561,1156 3516,1156 3516,1157 3451,1157 3451,1158 3437,1158 3437,1159 3374,1159 3374,1160 3193,1160 3193,1161 3160,1161 3160,1162 3015,1162 3015,1163 2788,1163 2788,1164 2723,1164 2723,1165 2578,1165 2578,1166 2286,1166 2286,1167 830,1167 830,1168 684,1168 684,1169 493,1169 493,1168 460,1168 460,1167 436,1167 436,1166 422,1166 422,1077 421,1077 421,1047 422,1047 422,1030 974,1030 974,1029 1199,1029 1199,1028 1265,1028 1265,1027 1411,1027 1411,1026 1663,1026 1663,1025 1702,1025 1702,1024 3325,1024 3325,1023 3450,1023 3450,1022 3456,1022 3456,1021 3546,1021 3546,1020"/>
+               </Shape>
+               <TextLine HEIGHT="92" WIDTH="3125" VPOS="1016" HPOS="428">
+                  <String WC="0.75999999046325684"
+                          CONTENT="While"
+                          HEIGHT="42"
+                          WIDTH="125"
+                          VPOS="1039"
+                          HPOS="428">While</String>
+                  <SP WIDTH="18" VPOS="1042" HPOS="552"> </SP>
+                  <String WC="0.65499997138977051"
+                          CONTENT="in"
+                          HEIGHT="34"
+                          WIDTH="37"
+                          VPOS="1042"
+                          HPOS="569">in</String>
+                  <SP WIDTH="18" VPOS="1044" HPOS="605"> </SP>
+                  <String WC="1."
+                          CONTENT="this"
+                          HEIGHT="37"
+                          WIDTH="77"
+                          VPOS="1041"
+                          HPOS="622">this</String>
+                  <SP WIDTH="16" VPOS="1052" HPOS="698"> </SP>
+                  <String WC="0.70749998092651367"
+                          CONTENT="vale"
+                          HEIGHT="35"
+                          WIDTH="83"
+                          VPOS="1041"
+                          HPOS="714">vale</String>
+                  <SP WIDTH="17" VPOS="1051" HPOS="796"> </SP>
+                  <String WC="1."
+                          CONTENT="of"
+                          HEIGHT="35"
+                          WIDTH="39"
+                          VPOS="1040"
+                          HPOS="813">of</String>
+                  <SP WIDTH="18" VPOS="1040" HPOS="851"> </SP>
+                  <String WC="0.89999997615814209"
+                          CONTENT="sorrow"
+                          HEIGHT="25"
+                          WIDTH="137"
+                          VPOS="1049"
+                          HPOS="868">sorrow</String>
+                  <SP WIDTH="21" VPOS="1037" HPOS="1005"> </SP>
+                  <String WC="0.5899999737739563"
+                          CONTENT="I"
+                          HEIGHT="34"
+                          WIDTH="10"
+                          VPOS="1037"
+                          HPOS="1025">I</String>
+                  <SP WIDTH="19" VPOS="1037" HPOS="1035"> </SP>
+                  <String WC="0.97833335399627686"
+                          CONTENT="travel"
+                          HEIGHT="39"
+                          WIDTH="122"
+                          VPOS="1035"
+                          HPOS="1053">travel</String>
+                  <SP WIDTH="17" VPOS="1036" HPOS="1174"> </SP>
+                  <String WC="1."
+                          CONTENT="on"
+                          HEIGHT="23"
+                          WIDTH="45"
+                          VPOS="1048"
+                          HPOS="1191">on</String>
+                  <SP WIDTH="19" VPOS="1037" HPOS="1237"> </SP>
+                  <String WC="0.67500001192092896"
+                          CONTENT="in"
+                          HEIGHT="35"
+                          WIDTH="36"
+                          VPOS="1036"
+                          HPOS="1256">in</String>
+                  <SP WIDTH="17" VPOS="1046" HPOS="1292"> </SP>
+                  <String WC="0.94999998807907104"
+                          CONTENT="pain;"
+                          HEIGHT="44"
+                          WIDTH="97"
+                          VPOS="1035"
+                          HPOS="1309">pain;</String>
+                  <SP WIDTH="63" VPOS="1037" HPOS="1405"> </SP>
+                  <String WC="0.23000000417232513"
+                          CONTENT="1"
+                          HEIGHT="31"
+                          WIDTH="15"
+                          VPOS="1037"
+                          HPOS="1467">1</String>
+                  <SP WIDTH="22" VPOS="1037" HPOS="1482"> </SP>
+                  <String WC="0."
+                          CONTENT="g"
+                          HEIGHT="33"
+                          WIDTH="28"
+                          VPOS="1054"
+                          HPOS="1503">g</String>
+                  <SP WIDTH="28" VPOS="1054" HPOS="1531"> </SP>
+                  <String STYLE="subscript"
+                          WC="0.37999999523162842"
+                          CONTENT="t"
+                          HEIGHT="30"
+                          WIDTH="17"
+                          VPOS="1057"
+                          HPOS="1559">t</String>
+                  <SP WIDTH="14" VPOS="1057" HPOS="1576"> </SP>
+                  <String STYLE="subscript"
+                          WC="0.51999998092651367"
+                          CONTENT="w"
+                          HEIGHT="21"
+                          WIDTH="37"
+                          VPOS="1066"
+                          HPOS="1590">w</String>
+                  <String WC="0.23000000417232513"
+                          CONTENT="u"
+                          HEIGHT="18"
+                          WIDTH="22"
+                          VPOS="1055"
+                          HPOS="1628">u</String>
+                  <String STYLE="subscript"
+                          WC="0.54500001668930054"
+                          CONTENT="en"
+                          HEIGHT="22"
+                          WIDTH="43"
+                          VPOS="1065"
+                          HPOS="1656">en</String>
+                  <SP WIDTH="18" VPOS="1053" HPOS="1699"> </SP>
+                  <String WC="0.30000001192092896"
+                          CONTENT="t"
+                          HEIGHT="18"
+                          WIDTH="11"
+                          VPOS="1053"
+                          HPOS="1717">t</String>
+                  <SP WIDTH="17" VPOS="1053" HPOS="1728"> </SP>
+                  <String STYLE="subscript"
+                          WC="0.67250001430511475"
+                          CONTENT="come"
+                          HEIGHT="23"
+                          WIDTH="101"
+                          VPOS="1063"
+                          HPOS="1745">come</String>
+                  <SP WIDTH="15" VPOS="1054" HPOS="1846"> </SP>
+                  <String WC="0.55000001192092896"
+                          CONTENT="+"
+                          HEIGHT="21"
+                          WIDTH="17"
+                          VPOS="1054"
+                          HPOS="1861">+</String>
+                  <String STYLE="subscript"
+                          WC="0.99000000953674316"
+                          CONTENT="0"
+                          HEIGHT="23"
+                          WIDTH="21"
+                          VPOS="1063"
+                          HPOS="1878">0</String>
+                  <SP WIDTH="14" VPOS="1051" HPOS="1899"> </SP>
+                  <String WC="0.4166666567325592"
+                          CONTENT="bid"
+                          HEIGHT="35"
+                          WIDTH="58"
+                          VPOS="1051"
+                          HPOS="1913">bid</String>
+                  <SP WIDTH="15" VPOS="1051" HPOS="1971"> </SP>
+                  <String WC="0.68599998950958252"
+                          CONTENT="adieu"
+                          HEIGHT="38"
+                          WIDTH="105"
+                          VPOS="1049"
+                          HPOS="1986">adieu</String>
+                  <SP WIDTH="14" VPOS="1047" HPOS="2091"> </SP>
+                  <String WC="0.79000002145767212"
+                          CONTENT="To"
+                          HEIGHT="42"
+                          WIDTH="55"
+                          VPOS="1046"
+                          HPOS="2105">To</String>
+                  <SP WIDTH="16" VPOS="1050" HPOS="2160"> </SP>
+                  <String WC="0.86400002241134644"
+                          CONTENT="those"
+                          HEIGHT="39"
+                          WIDTH="107"
+                          VPOS="1047"
+                          HPOS="2176">those</String>
+                  <SP WIDTH="17" VPOS="1046" HPOS="2282"> </SP>
+                  <String WC="0.57999998331069946"
+                          CONTENT="I"
+                          HEIGHT="35"
+                          WIDTH="13"
+                          VPOS="1046"
+                          HPOS="2298">I</String>
+                  <SP WIDTH="19" VPOS="1046" HPOS="2310"> </SP>
+                  <String WC="0.68833333253860474"
+                          CONTENT="dearly"
+                          HEIGHT="45"
+                          WIDTH="125"
+                          VPOS="1045"
+                          HPOS="2328">dearly</String>
+                  <SP WIDTH="15" VPOS="1046" HPOS="2453"> </SP>
+                  <String WC="0.92400002479553223"
+                          CONTENT="love,"
+                          HEIGHT="43"
+                          WIDTH="96"
+                          VPOS="1046"
+                          HPOS="2468">love,</String>
+                  <SP WIDTH="20" VPOS="1044" HPOS="2564"> </SP>
+                  <String WC="0.68999999761581421"
+                          CONTENT="My"
+                          HEIGHT="43"
+                          WIDTH="67"
+                          VPOS="1044"
+                          HPOS="2584">My</String>
+                  <SP WIDTH="11" VPOS="1044" HPOS="2651"> </SP>
+                  <String WC="0.96399998664855957"
+                          CONTENT="heart"
+                          HEIGHT="37"
+                          WIDTH="105"
+                          VPOS="1043"
+                          HPOS="2662">heart</String>
+                  <SP WIDTH="16" VPOS="1043" HPOS="2767"> </SP>
+                  <String WC="0.7850000262260437"
+                          CONTENT="is"
+                          HEIGHT="37"
+                          WIDTH="32"
+                          VPOS="1042"
+                          HPOS="2783">is</String>
+                  <SP WIDTH="16" VPOS="1053" HPOS="2815"> </SP>
+                  <String WC="0.86400002241134644"
+                          CONTENT="often"
+                          HEIGHT="38"
+                          WIDTH="101"
+                          VPOS="1041"
+                          HPOS="2831">often</String>
+                  <SP WIDTH="14" VPOS="1052" HPOS="2932"> </SP>
+                  <String WC="0.9144444465637207"
+                          CONTENT="melted—It"
+                          HEIGHT="39"
+                          WIDTH="210"
+                          VPOS="1039"
+                          HPOS="2946">melted—It</String>
+                  <SP WIDTH="14" VPOS="1038" HPOS="3156"> </SP>
+                  <String WC="0.73500001430511475"
+                          CONTENT="is"
+                          HEIGHT="35"
+                          WIDTH="32"
+                          VPOS="1038"
+                          HPOS="3170">is</String>
+                  <SP WIDTH="15" VPOS="1040" HPOS="3202"> </SP>
+                  <String WC="1."
+                          CONTENT="the"
+                          HEIGHT="34"
+                          WIDTH="65"
+                          VPOS="1039"
+                          HPOS="3217">the</String>
+                  <SP WIDTH="13" VPOS="1048" HPOS="3282"> </SP>
+                  <String WC="0.79400002956390381"
+                          CONTENT="grief"
+                          HEIGHT="46"
+                          WIDTH="91"
+                          VPOS="1036"
+                          HPOS="3295">grief</String>
+                  <SP WIDTH="17" VPOS="1038" HPOS="3386"> </SP>
+                  <String WC="0.68500000238418579"
+                          CONTENT="of"
+                          HEIGHT="36"
+                          WIDTH="39"
+                          VPOS="1037"
+                          HPOS="3403">of</String>
+                  <SP WIDTH="14" VPOS="1036" HPOS="3442"> </SP>
+                  <String WC="0.77799999713897705"
+                          CONTENT="love."
+                          HEIGHT="38"
+                          WIDTH="96"
+                          VPOS="1035"
+                          HPOS="3456">love.</String>
+               </TextLine>
+               <TextLine HEIGHT="58" WIDTH="1052" VPOS="1075" HPOS="429">
+                  <String WC="0.54000002145767212"
+                          CONTENT="My"
+                          HEIGHT="45"
+                          WIDTH="65"
+                          VPOS="1086"
+                          HPOS="429">My</String>
+                  <SP WIDTH="11" VPOS="1088" HPOS="495"> </SP>
+                  <String WC="0.9100000262260437"
+                          CONTENT="heart"
+                          HEIGHT="36"
+                          WIDTH="104"
+                          VPOS="1087"
+                          HPOS="507">heart</String>
+                  <SP WIDTH="11" VPOS="1086" HPOS="612"> </SP>
+                  <String WC="1."
+                          CONTENT="is"
+                          HEIGHT="35"
+                          WIDTH="29"
+                          VPOS="1086"
+                          HPOS="624">is</String>
+                  <SP WIDTH="15" VPOS="1087" HPOS="654"> </SP>
+                  <String WC="0.86874997615814209"
+                          CONTENT="fixed.on"
+                          HEIGHT="43"
+                          WIDTH="153"
+                          VPOS="1086"
+                          HPOS="670">fixed.on</String>
+                  <SP WIDTH="18" VPOS="1083" HPOS="824"> </SP>
+                  <String WC="0.90499997138977051"
+                          CONTENT="Jesus,"
+                          HEIGHT="44"
+                          WIDTH="124"
+                          VPOS="1083"
+                          HPOS="843">Jesus,</String>
+                  <SP WIDTH="14" VPOS="1082" HPOS="968"> </SP>
+                  <String WC="0.43999999761581421"
+                          CONTENT="1"
+                          HEIGHT="35"
+                          WIDTH="10"
+                          VPOS="1082"
+                          HPOS="983">1</String>
+                  <SP WIDTH="11" VPOS="1082" HPOS="994"> </SP>
+                  <String WC="0.95499998331069946"
+                          CONTENT="hope"
+                          HEIGHT="45"
+                          WIDTH="93"
+                          VPOS="1082"
+                          HPOS="1006">hope</String>
+                  <SP WIDTH="14" VPOS="1085" HPOS="1100"> </SP>
+                  <String WC="1."
+                          CONTENT="the"
+                          HEIGHT="36"
+                          WIDTH="63"
+                          VPOS="1082"
+                          HPOS="1115">the</String>
+                  <SP WIDTH="15" VPOS="1092" HPOS="1179"> </SP>
+                  <String WC="0.94999998807907104"
+                          CONTENT="prize"
+                          HEIGHT="43"
+                          WIDTH="96"
+                          VPOS="1081"
+                          HPOS="1195">prize</String>
+                  <SP WIDTH="11" VPOS="1083" HPOS="1292"> </SP>
+                  <String WC="0.84500002861022949"
+                          CONTENT="to"
+                          HEIGHT="32"
+                          WIDTH="37"
+                          VPOS="1083"
+                          HPOS="1304">to</String>
+                  <SP WIDTH="12" VPOS="1090" HPOS="1342"> </SP>
+                  <String WC="0.6940000057220459"
+                          CONTENT="gain,"
+                          HEIGHT="44"
+                          WIDTH="96"
+                          VPOS="1079"
+                          HPOS="1355">gain,</String>
+                  <SP WIDTH="16" VPOS="1089" HPOS="1452"> </SP>
+                  <String WC="0.61000001430511475"
+                          CONTENT="j"
+                          HEIGHT="29"
+                          WIDTH="12"
+                          VPOS="1089"
+                          HPOS="1469">j</String>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="Page1_Block6"
+                       HEIGHT="48"
+                       WIDTH="128"
+                       VPOS="1377"
+                       HPOS="1303"
+                       language="en-US">
+               <Shape>
+                  <Polygon POINTS="1412,1378 1430,1378 1430,1379 1431,1379 1431,1424 1414,1424 1414,1425 1303,1425 1303,1379 1412,1379 1412,1378"/>
+               </Shape>
+               <TextLine HEIGHT="31" WIDTH="112" VPOS="1386" HPOS="1311">
+                  <String WC="0.57999998331069946"
+                          CONTENT="1"
+                          HEIGHT="30"
+                          WIDTH="19"
+                          VPOS="1387"
+                          HPOS="1311">1</String>
+                  <SP WIDTH="70" VPOS="1387" HPOS="1331"> </SP>
+                  <String WC="0.37999999523162842"
+                          CONTENT="2"
+                          HEIGHT="29"
+                          WIDTH="21"
+                          VPOS="1387"
+                          HPOS="1402">2</String>
+               </TextLine>
+            </TextBlock>
+            <ComposedBlock ID="Page1_Block7"
+                           HEIGHT="412"
+                           WIDTH="3237"
+                           VPOS="1564"
+                           HPOS="246"
+                           TYPE="container">
+               <Shape>
+                  <Polygon POINTS="3452,1576 3480,1576 3480,1645 3481,1645 3481,1790 3482,1790 3482,1936 3483,1936 3483,1950 3455,1950 3455,1951 3432,1951 3432,1952 3309,1952 3309,1953 3164,1953 3164,1954 3018,1954 3018,1955 2581,1955 2581,1956 2290,1956 2290,1957 1549,1957 1549,1958 1350,1958 1350,1959 1270,1959 1270,1960 1166,1960 1166,1961 1125,1961 1125,1962 926,1962 926,1963 834,1963 834,1964 688,1964 688,1965 662,1965 662,1966 385,1966 385,1967 365,1967 365,1968 342,1968 342,1969 291,1969 291,1968 250,1968 250,1963 251,1963 251,1951 250,1951 250,1806 249,1806 249,1660 248,1660 248,1596 249,1596 249,1595 341,1595 341,1594 354,1594 354,1593 365,1593 365,1592 376,1592 376,1591 387,1591 387,1590 394,1590 394,1589 403,1589 403,1588 831,1588 831,1587 976,1587 976,1586 1027,1586 1027,1585 1259,1585 1259,1584 1268,1584 1268,1583 1413,1583 1413,1582 1587,1582 1587,1581 1705,1581 1705,1580 1996,1580 1996,1579 3307,1579 3307,1578 3435,1578 3435,1577 3452,1577 3452,1576"/>
+               </Shape>
+               <TextBlock ID="Page1_Block8"
+                          HEIGHT="106"
+                          WIDTH="2716"
+                          VPOS="1568"
+                          HPOS="247"
+                          language="en-US">
+                  <Shape>
+                     <Polygon POINTS="1996,1579 1997,1579 1997,1580 2907,1580 2907,1581 2962,1581 2962,1647 2963,1647 2963,1651 2962,1651 2962,1652 2853,1652 2853,1653 2725,1653 2725,1654 2580,1654 2580,1655 2289,1655 2289,1656 1267,1656 1267,1657 1123,1657 1123,1658 978,1658 978,1659 832,1659 832,1660 724,1660 724,1661 687,1661 687,1662 389,1662 389,1663 376,1663 376,1664 364,1664 364,1665 352,1665 352,1666 336,1666 336,1667 249,1667 249,1660 248,1660 248,1596 249,1596 249,1595 341,1595 341,1594 354,1594 354,1593 365,1593 365,1592 376,1592 376,1591 387,1591 387,1590 394,1590 394,1589 403,1589 403,1588 831,1588 831,1587 976,1587 976,1586 1027,1586 1027,1585 1259,1585 1259,1584 1268,1584 1268,1583 1413,1583 1413,1582 1587,1582 1587,1581 1705,1581 1705,1580 1996,1580 1996,1579"/>
+                  </Shape>
+                  <TextLine HEIGHT="89" WIDTH="2699" VPOS="1576" HPOS="255">
+                     <String WC="0.65750002861022949"
+                             CONTENT="This"
+                             HEIGHT="39"
+                             WIDTH="92"
+                             VPOS="1610"
+                             HPOS="255">This</String>
+                     <SP WIDTH="15" VPOS="1611" HPOS="348"> </SP>
+                     <String WC="0.6600000262260437"
+                             CONTENT="is"
+                             HEIGHT="42"
+                             WIDTH="31"
+                             VPOS="1607"
+                             HPOS="364">is</String>
+                     <SP WIDTH="16" VPOS="1619" HPOS="396"> </SP>
+                     <String WC="0.81333333253860474"
+                             CONTENT="old"
+                             HEIGHT="39"
+                             WIDTH="58"
+                             VPOS="1608"
+                             HPOS="413">old</String>
+                     <SP WIDTH="15" VPOS="1609" HPOS="472"> </SP>
+                     <String WC="0.93199998140335083"
+                             CONTENT="tune,"
+                             HEIGHT="43"
+                             WIDTH="101"
+                             VPOS="1610"
+                             HPOS="488">tune,</String>
+                     <SP WIDTH="16" VPOS="1607" HPOS="590"> </SP>
+                     <String WC="1."
+                             CONTENT="first"
+                             HEIGHT="39"
+                             WIDTH="80"
+                             VPOS="1606"
+                             HPOS="607">first</String>
+                     <SP WIDTH="13" VPOS="1610" HPOS="688"> </SP>
+                     <String WC="0.86000001430511475"
+                             CONTENT="published"
+                             HEIGHT="46"
+                             WIDTH="193"
+                             VPOS="1606"
+                             HPOS="702">published</String>
+                     <SP WIDTH="13" VPOS="1606" HPOS="896"> </SP>
+                     <String WC="0.7850000262260437"
+                             CONTENT="in"
+                             HEIGHT="37"
+                             WIDTH="38"
+                             VPOS="1605"
+                             HPOS="910">in</String>
+                     <SP WIDTH="20" VPOS="1616" HPOS="949"> </SP>
+                     <String WC="0.6679999828338623"
+                             CONTENT="1769,"
+                             HEIGHT="45"
+                             WIDTH="96"
+                             VPOS="1604"
+                             HPOS="970">1769,</String>
+                     <SP WIDTH="16" VPOS="1604" HPOS="1067"> </SP>
+                     <String WC="0.82666665315628052"
+                             CONTENT="has"
+                             HEIGHT="38"
+                             WIDTH="69"
+                             VPOS="1603"
+                             HPOS="1084">has</String>
+                     <SP WIDTH="16" VPOS="1604" HPOS="1154"> </SP>
+                     <String WC="0.88749998807907104"
+                             CONTENT="been"
+                             HEIGHT="37"
+                             WIDTH="90"
+                             VPOS="1603"
+                             HPOS="1171">been</String>
+                     <SP WIDTH="16" VPOS="1613" HPOS="1262"> </SP>
+                     <String WC="0.93714284896850586"
+                             CONTENT="printed"
+                             HEIGHT="43"
+                             WIDTH="141"
+                             VPOS="1602"
+                             HPOS="1279">printed</String>
+                     <SP WIDTH="15" VPOS="1601" HPOS="1421"> </SP>
+                     <String WC="0.67500001192092896"
+                             CONTENT="in"
+                             HEIGHT="35"
+                             WIDTH="36"
+                             VPOS="1601"
+                             HPOS="1437">in</String>
+                     <SP WIDTH="17" VPOS="1611" HPOS="1474"> </SP>
+                     <String WC="1."
+                             CONTENT="many"
+                             HEIGHT="35"
+                             WIDTH="113"
+                             VPOS="1610"
+                             HPOS="1492">many</String>
+                     <SP WIDTH="13" VPOS="1603" HPOS="1606"> </SP>
+                     <String WC="0.88999998569488525"
+                             CONTENT="tune"
+                             HEIGHT="36"
+                             WIDTH="88"
+                             VPOS="1601"
+                             HPOS="1620">tune</String>
+                     <SP WIDTH="16" VPOS="1598" HPOS="1709"> </SP>
+                     <String WC="1."
+                             CONTENT="books"
+                             HEIGHT="36"
+                             WIDTH="118"
+                             VPOS="1598"
+                             HPOS="1726">books</String>
+                     <SP WIDTH="16" VPOS="1607" HPOS="1845"> </SP>
+                     <String WC="0.85799998044967651"
+                             CONTENT="since"
+                             HEIGHT="36"
+                             WIDTH="98"
+                             VPOS="1597"
+                             HPOS="1862">since</String>
+                     <SP WIDTH="15" VPOS="1600" HPOS="1961"> </SP>
+                     <String WC="0.86000001430511475"
+                             CONTENT="then."
+                             HEIGHT="39"
+                             WIDTH="102"
+                             VPOS="1595"
+                             HPOS="1977">then.</String>
+                     <SP WIDTH="50" VPOS="1593" HPOS="2080"> </SP>
+                     <String WC="1."
+                             CONTENT="The"
+                             HEIGHT="41"
+                             WIDTH="79"
+                             VPOS="1593"
+                             HPOS="2131">The</String>
+                     <SP WIDTH="15" VPOS="1593" HPOS="2211"> </SP>
+                     <String WC="0.84249997138977051"
+                             CONTENT="hymn"
+                             HEIGHT="44"
+                             WIDTH="116"
+                             VPOS="1593"
+                             HPOS="2227">hymn</String>
+                     <SP WIDTH="18" VPOS="1593" HPOS="2344"> </SP>
+                     <String WC="1."
+                             CONTENT="is"
+                             HEIGHT="35"
+                             WIDTH="30"
+                             VPOS="1593"
+                             HPOS="2363">is</String>
+                     <SP WIDTH="16" VPOS="1595" HPOS="2394"> </SP>
+                     <String WC="1."
+                             CONTENT="taken"
+                             HEIGHT="37"
+                             WIDTH="112"
+                             VPOS="1592"
+                             HPOS="2411">taken</String>
+                     <SP WIDTH="15" VPOS="1593" HPOS="2524"> </SP>
+                     <String WC="0.89999997615814209"
+                             CONTENT="from"
+                             HEIGHT="35"
+                             WIDTH="92"
+                             VPOS="1592"
+                             HPOS="2540">from</String>
+                     <SP WIDTH="19" VPOS="1591" HPOS="2633"> </SP>
+                     <String WC="0.84333330392837524"
+                             CONTENT="Romans"
+                             HEIGHT="35"
+                             WIDTH="162"
+                             VPOS="1590"
+                             HPOS="2653">Romans</String>
+                     <SP WIDTH="15" VPOS="1588" HPOS="2816"> </SP>
+                     <String WC="0.82499998807907104"
+                             CONTENT="8:"
+                             HEIGHT="36"
+                             WIDTH="42"
+                             VPOS="1587"
+                             HPOS="2832">8:</String>
+                     <SP WIDTH="25" VPOS="1598" HPOS="2875"> </SP>
+                     <String WC="0.78333336114883423"
+                             CONTENT="24."
+                             HEIGHT="32"
+                             WIDTH="53"
+                             VPOS="1598"
+                             HPOS="2901">24.</String>
+                  </TextLine>
+               </TextBlock>
+               <ComposedBlock ID="Page1_Block9"
+                              HEIGHT="261"
+                              WIDTH="3236"
+                              VPOS="1715"
+                              HPOS="247"
+                              TYPE="table">
+                  <TextBlock ID="Page1_Block10"
+                             HEIGHT="234"
+                             WIDTH="725"
+                             VPOS="1736"
+                             HPOS="247"
+                             language="en-US">
+                     <Shape>
+                        <Polygon POINTS="831,1738 970,1738 970,1801 971,1801 971,1947 972,1947 972,1958 971,1958 971,1961 970,1961 970,1962 926,1962 926,1963 834,1963 834,1964 688,1964 688,1965 662,1965 662,1966 385,1966 385,1967 365,1967 365,1968 342,1968 342,1969 291,1969 291,1968 250,1968 250,1963 251,1963 251,1951 250,1951 250,1806 249,1806 249,1746 250,1746 250,1745 351,1745 351,1744 365,1744 365,1743 379,1743 379,1742 395,1742 395,1741 396,1741 396,1740 740,1740 740,1739 831,1739 831,1738"/>
+                     </Shape>
+                     <TextLine HEIGHT="47" WIDTH="369" VPOS="1913" HPOS="258">
+                        <String WC="0.78666669130325317"
+                                CONTENT="Key"
+                                HEIGHT="41"
+                                WIDTH="88"
+                                VPOS="1919"
+                                HPOS="258">Key</String>
+                        <SP WIDTH="22" VPOS="1928" HPOS="346"> </SP>
+                        <String WC="0.40999999642372131"
+                                CONTENT="of"
+                                HEIGHT="35"
+                                WIDTH="47"
+                                VPOS="1916"
+                                HPOS="368">of</String>
+                        <SP WIDTH="18" VPOS="1916" HPOS="415"> </SP>
+                        <String WC="0.56999999284744263"
+                                CONTENT="A"
+                                HEIGHT="32"
+                                WIDTH="34"
+                                VPOS="1917"
+                                HPOS="433">A</String>
+                        <SP WIDTH="22" VPOS="1917" HPOS="467"> </SP>
+                        <String WC="0.48166665434837341"
+                                CONTENT="Minor."
+                                HEIGHT="36"
+                                WIDTH="138"
+                                VPOS="1914"
+                                HPOS="489">Minor.</String>
+                     </TextLine>
+                  </TextBlock>
+                  <TextBlock ID="Page1_Block11"
+                             HEIGHT="254"
+                             WIDTH="2514"
+                             VPOS="1716"
+                             HPOS="969"
+                             language="en-US">
+                     <Shape>
+                        <Polygon POINTS="3479,1726 3481,1726 3481,1790 3482,1790 3482,1936 3483,1936 3483,1950 3455,1950 3455,1951 3432,1951 3432,1952 3309,1952 3309,1953 3164,1953 3164,1954 3018,1954 3018,1955 2581,1955 2581,1956 2290,1956 2290,1957 1549,1957 1549,1958 1350,1958 1350,1959 1270,1959 1270,1960 1166,1960 1166,1961 1125,1961 1125,1962 971,1962 971,1955 972,1955 972,1948 971,1948 971,1802 970,1802 970,1738 977,1738 977,1737 1060,1737 1060,1736 1268,1736 1268,1735 1284,1735 1284,1734 1414,1734 1414,1733 1572,1733 1572,1732 1705,1732 1705,1731 1996,1731 1996,1730 3307,1730 3307,1729 3338,1729 3338,1728 3453,1728 3453,1727 3479,1727 3479,1726"/>
+                     </Shape>
+                     <TextLine HEIGHT="74" WIDTH="731" VPOS="1757" HPOS="1496">
+                        <String WC="0.74299997091293335"
+                                CONTENT="BRUNSWICK."
+                                HEIGHT="64"
+                                WIDTH="471"
+                                VPOS="1763"
+                                HPOS="1496">BRUNSWICK.</String>
+                        <SP WIDTH="73" VPOS="1764" HPOS="1967"> </SP>
+                        <String WC="0.81499999761581421"
+                                CONTENT="C."
+                                HEIGHT="50"
+                                WIDTH="65"
+                                VPOS="1766"
+                                HPOS="2040">C.</String>
+                        <SP WIDTH="39" VPOS="1761" HPOS="2105"> </SP>
+                        <String WC="0.68500000238418579"
+                                CONTENT="M."
+                                HEIGHT="54"
+                                WIDTH="83"
+                                VPOS="1762"
+                                HPOS="2144">M.</String>
+                     </TextLine>
+                     <TextLine HEIGHT="54" WIDTH="1155" VPOS="1854" HPOS="1286">
+                        <String WC="1."
+                                CONTENT="“"
+                                HEIGHT="12"
+                                WIDTH="18"
+                                VPOS="1873"
+                                HPOS="1286">“</String>
+                        <SP WIDTH="9" VPOS="1873" HPOS="1305"> </SP>
+                        <String WC="0.83833330869674683"
+                                CONTENT="Strive"
+                                HEIGHT="29"
+                                WIDTH="104"
+                                VPOS="1870"
+                                HPOS="1315">Strive</String>
+                        <SP WIDTH="11" VPOS="1872" HPOS="1420"> </SP>
+                        <String WC="0.77375000715255737"
+                                CONTENT="together"
+                                HEIGHT="34"
+                                WIDTH="149"
+                                VPOS="1868"
+                                HPOS="1432">together</String>
+                        <SP WIDTH="10" VPOS="1876" HPOS="1582"> </SP>
+                        <String WC="0.48500001430511475"
+                                CONTENT="with"
+                                HEIGHT="29"
+                                WIDTH="80"
+                                VPOS="1867"
+                                HPOS="1593">with</String>
+                        <SP WIDTH="11" VPOS="1869" HPOS="1674"> </SP>
+                        <String WC="0.67000001668930054"
+                                CONTENT="me"
+                                HEIGHT="21"
+                                WIDTH="52"
+                                VPOS="1874"
+                                HPOS="1686">me</String>
+                        <SP WIDTH="11" VPOS="1867" HPOS="1739"> </SP>
+                        <String WC="0.3449999988079071"
+                                CONTENT="in"
+                                HEIGHT="26"
+                                WIDTH="36"
+                                VPOS="1867"
+                                HPOS="1751">in</String>
+                        <SP WIDTH="10" VPOS="1875" HPOS="1788"> </SP>
+                        <String WC="0.74000000953674316"
+                                CONTENT="your"
+                                HEIGHT="27"
+                                WIDTH="81"
+                                VPOS="1873"
+                                HPOS="1799">your</String>
+                        <SP WIDTH="10" VPOS="1872" HPOS="1881"> </SP>
+                        <String WC="0.7442857027053833"
+                                CONTENT="prayers"
+                                HEIGHT="30"
+                                WIDTH="134"
+                                VPOS="1871"
+                                HPOS="1892">prayers</String>
+                        <SP WIDTH="11" VPOS="1867" HPOS="2027"> </SP>
+                        <String WC="0.94499999284744263"
+                                CONTENT="to"
+                                HEIGHT="24"
+                                WIDTH="33"
+                                VPOS="1868"
+                                HPOS="2039">to</String>
+                        <SP WIDTH="11" VPOS="1866" HPOS="2073"> </SP>
+                        <String WC="0.77399998903274536"
+                                CONTENT="God.”—Rom."
+                                HEIGHT="33"
+                                WIDTH="228"
+                                VPOS="1862"
+                                HPOS="2085">God.”—Rom.</String>
+                        <SP WIDTH="13" VPOS="1863" HPOS="2314"> </SP>
+                        <String WC="0.93999999761581421"
+                                CONTENT="15"
+                                HEIGHT="26"
+                                WIDTH="33"
+                                VPOS="1862"
+                                HPOS="2328">15</String>
+                        <SP WIDTH="11" VPOS="1862" HPOS="2362"> </SP>
+                        <String WC="0.27000001072883606"
+                                CONTENT=";"
+                                HEIGHT="19"
+                                WIDTH="9"
+                                VPOS="1870"
+                                HPOS="2374">;</String>
+                        <SP WIDTH="13" VPOS="1863" HPOS="2384"> </SP>
+                        <String WC="1."
+                                CONTENT="30."
+                                HEIGHT="26"
+                                WIDTH="43"
+                                VPOS="1862"
+                                HPOS="2398">30.</String>
+                     </TextLine>
+                     <TextLine HEIGHT="49" WIDTH="650" VPOS="1884" HPOS="2823">
+                        <String WC="0.48399999737739563"
+                                CONTENT="Taken"
+                                HEIGHT="35"
+                                WIDTH="133"
+                                VPOS="1890"
+                                HPOS="2823">Taken</String>
+                        <SP WIDTH="21" VPOS="1890" HPOS="2957"> </SP>
+                        <String WC="0.64999997615814209"
+                                CONTENT="from"
+                                HEIGHT="35"
+                                WIDTH="98"
+                                VPOS="1889"
+                                HPOS="2979">from</String>
+                        <SP WIDTH="24" VPOS="1890" HPOS="3078"> </SP>
+                        <String WC="0.63099998235702515"
+                                CONTENT="Pillsbury,"
+                                HEIGHT="43"
+                                WIDTH="241"
+                                VPOS="1887"
+                                HPOS="3103">Pillsbury,</String>
+                        <SP WIDTH="30" VPOS="1888" HPOS="3345"> </SP>
+                        <String WC="0.48800000548362732"
+                                CONTENT="1790."
+                                HEIGHT="37"
+                                WIDTH="97"
+                                VPOS="1886"
+                                HPOS="3376">1790.</String>
+                     </TextLine>
+                  </TextBlock>
+               </ComposedBlock>
+            </ComposedBlock>
+            <TextBlock ID="Page1_Block12"
+                       HEIGHT="108"
+                       WIDTH="3124"
+                       VPOS="2128"
+                       HPOS="404"
+                       language="en-US">
+               <Shape>
+                  <Polygon POINTS="3467,2138 3528,2138 3528,2210 3523,2210 3523,2211 3456,2211 3456,2212 3454,2212 3454,2213 3379,2213 3379,2214 3165,2214 3165,2215 2582,2215 2582,2216 2328,2216 2328,2217 2291,2217 2291,2218 1563,2218 1563,2219 1417,2219 1417,2220 1351,2220 1351,2221 1272,2221 1272,2222 1197,2222 1197,2223 1126,2223 1126,2224 975,2224 975,2225 835,2225 835,2226 724,2226 724,2227 689,2227 689,2228 543,2228 543,2229 443,2229 443,2228 404,2228 404,2155 575,2155 575,2154 711,2154 711,2153 833,2153 833,2152 965,2152 965,2151 979,2151 979,2150 1191,2150 1191,2149 1270,2149 1270,2148 1351,2148 1351,2147 1416,2147 1416,2146 1531,2146 1531,2145 1631,2145 1631,2144 1998,2144 1998,2143 2726,2143 2726,2142 2872,2142 2872,2141 3309,2141 3309,2140 3455,2140 3455,2139 3467,2139 3467,2138"/>
+               </Shape>
+               <TextLine HEIGHT="90" WIDTH="3108" VPOS="2137" HPOS="412">
+                  <String WC="0.81000000238418579"
+                          CONTENT="To"
+                          HEIGHT="37"
+                          WIDTH="55"
+                          VPOS="2176"
+                          HPOS="412">To</String>
+                  <SP WIDTH="15" VPOS="2179" HPOS="468"> </SP>
+                  <String WC="0.9440000057220459"
+                          CONTENT="thee,"
+                          HEIGHT="45"
+                          WIDTH="96"
+                          VPOS="2175"
+                          HPOS="484">thee,</String>
+                  <SP WIDTH="18" VPOS="2174" HPOS="581"> </SP>
+                  <String WC="1."
+                          CONTENT="O"
+                          HEIGHT="37"
+                          WIDTH="38"
+                          VPOS="2174"
+                          HPOS="600">O</String>
+                  <SP WIDTH="32" VPOS="2174" HPOS="639"> </SP>
+                  <String WC="0.89249998331069946"
+                          CONTENT="God,"
+                          HEIGHT="47"
+                          WIDTH="99"
+                          VPOS="2172"
+                          HPOS="672">God,</String>
+                  <SP WIDTH="63" VPOS="2183" HPOS="772"> </SP>
+                  <String WC="0.75999999046325684"
+                          CONTENT="my"
+                          HEIGHT="32"
+                          WIDTH="62"
+                          VPOS="2183"
+                          HPOS="836">my</String>
+                  <SP WIDTH="36" VPOS="2182" HPOS="899"> </SP>
+                  <String WC="0.89399999380111694"
+                          CONTENT="cries"
+                          HEIGHT="36"
+                          WIDTH="89"
+                          VPOS="2171"
+                          HPOS="936">cries</String>
+                  <SP WIDTH="38" VPOS="2180" HPOS="1026"> </SP>
+                  <String WC="1."
+                          CONTENT="as"
+                          HEIGHT="26"
+                          WIDTH="41"
+                          VPOS="2180"
+                          HPOS="1065">as</String>
+                  <SP WIDTH="24" VPOS="2180" HPOS="1107"> </SP>
+                  <String WC="0.93000000715255737"
+                          CONTENT="-"
+                          HEIGHT="7"
+                          WIDTH="15"
+                          VPOS="2189"
+                          HPOS="1132">-</String>
+                  <SP WIDTH="22" VPOS="2180" HPOS="1148"> </SP>
+                  <String WC="0.69599997997283936"
+                          CONTENT="cehd;"
+                          HEIGHT="45"
+                          WIDTH="102"
+                          VPOS="2168"
+                          HPOS="1171">cehd;</String>
+                  <SP WIDTH="104" VPOS="2167" HPOS="1274"> </SP>
+                  <String WC="0.75999999046325684"
+                          CONTENT="O"
+                          HEIGHT="38"
+                          WIDTH="38"
+                          VPOS="2166"
+                          HPOS="1379">O</String>
+                  <SP WIDTH="17" VPOS="2165" HPOS="1418"> </SP>
+                  <String WC="1."
+                          CONTENT="haste"
+                          HEIGHT="37"
+                          WIDTH="106"
+                          VPOS="2165"
+                          HPOS="1436">haste</String>
+                  <SP WIDTH="13" VPOS="2169" HPOS="1543"> </SP>
+                  <String WC="1."
+                          CONTENT="to"
+                          HEIGHT="36"
+                          WIDTH="38"
+                          VPOS="2167"
+                          HPOS="1557">to</String>
+                  <SP WIDTH="33" VPOS="2175" HPOS="1596"> </SP>
+                  <String WC="0.91500002145767212"
+                          CONTENT="my"
+                          HEIGHT="32"
+                          WIDTH="62"
+                          VPOS="2176"
+                          HPOS="1630">my</String>
+                  <SP WIDTH="38" VPOS="2174" HPOS="1693"> </SP>
+                  <String WC="0.95999997854232788"
+                          CONTENT="re"
+                          HEIGHT="24"
+                          WIDTH="35"
+                          VPOS="2175"
+                          HPOS="1732">re</String>
+                  <SP WIDTH="16" VPOS="2175" HPOS="1768"> </SP>
+                  <String WC="0.68000000715255737"
+                          CONTENT="-"
+                          HEIGHT="6"
+                          WIDTH="13"
+                          VPOS="2181"
+                          HPOS="1785">-</String>
+                  <SP WIDTH="14" VPOS="2163" HPOS="1799"> </SP>
+                  <String WC="0.91399997472763062"
+                          CONTENT="lief,"
+                          HEIGHT="43"
+                          WIDTH="73"
+                          VPOS="2162"
+                          HPOS="1814">lief,</String>
+                  <SP WIDTH="79" VPOS="2160" HPOS="1888"> </SP>
+                  <String WC="0.68666666746139526"
+                          CONTENT="And"
+                          HEIGHT="39"
+                          WIDTH="84"
+                          VPOS="2159"
+                          HPOS="1968">And</String>
+                  <SP WIDTH="15" VPOS="2161" HPOS="2053"> </SP>
+                  <String WC="0.66250002384185791"
+                          CONTENT="with"
+                          HEIGHT="38"
+                          WIDTH="89"
+                          VPOS="2159"
+                          HPOS="2069">with</String>
+                  <SP WIDTH="61" VPOS="2159" HPOS="2159"> </SP>
+                  <String WC="0.68999999761581421"
+                          CONTENT="ac"
+                          HEIGHT="26"
+                          WIDTH="41"
+                          VPOS="2169"
+                          HPOS="2221">ac</String>
+                  <SP WIDTH="22" VPOS="2169" HPOS="2263"> </SP>
+                  <String WC="0.9100000262260437"
+                          CONTENT="-"
+                          HEIGHT="7"
+                          WIDTH="14"
+                          VPOS="2177"
+                          HPOS="2286">-</String>
+                  <SP WIDTH="29" VPOS="2168" HPOS="2301"> </SP>
+                  <String WC="0.96444445848464966"
+                          CONTENT="cus-tomed"
+                          HEIGHT="39"
+                          WIDTH="201"
+                          VPOS="2156"
+                          HPOS="2331">cus-tomed</String>
+                  <SP WIDTH="37" VPOS="2157" HPOS="2533"> </SP>
+                  <String WC="0.80000001192092896"
+                          CONTENT="pi"
+                          HEIGHT="44"
+                          WIDTH="34"
+                          VPOS="2156"
+                          HPOS="2571">pi</String>
+                  <SP WIDTH="25" VPOS="2156" HPOS="2606"> </SP>
+                  <String WC="0.68000000715255737"
+                          CONTENT="-"
+                          HEIGHT="7"
+                          WIDTH="12"
+                          VPOS="2174"
+                          HPOS="2632">-</String>
+                  <SP WIDTH="21" VPOS="2157" HPOS="2645"> </SP>
+                  <String WC="1."
+                          CONTENT="ty"
+                          HEIGHT="41"
+                          WIDTH="42"
+                          VPOS="2157"
+                          HPOS="2667">ty</String>
+                  <SP WIDTH="58" VPOS="2153" HPOS="2710"> </SP>
+                  <String WC="0.84500002861022949"
+                          CONTENT="hear"
+                          HEIGHT="36"
+                          WIDTH="88"
+                          VPOS="2153"
+                          HPOS="2769">hear</String>
+                  <SP WIDTH="78" VPOS="2151" HPOS="2858"> </SP>
+                  <String WC="1."
+                          CONTENT="The"
+                          HEIGHT="37"
+                          WIDTH="78"
+                          VPOS="2151"
+                          HPOS="2937">The</String>
+                  <SP WIDTH="16" VPOS="2162" HPOS="3016"> </SP>
+                  <String WC="0.77999997138977051"
+                          CONTENT="ac-cents"
+                          HEIGHT="36"
+                          WIDTH="160"
+                          VPOS="2151"
+                          HPOS="3033">ac-cents</String>
+                  <SP WIDTH="61" VPOS="2160" HPOS="3194"> </SP>
+                  <String WC="1."
+                          CONTENT="of"
+                          HEIGHT="35"
+                          WIDTH="37"
+                          VPOS="2150"
+                          HPOS="3256">of</String>
+                  <SP WIDTH="31" VPOS="2149" HPOS="3294"> </SP>
+                  <String WC="1."
+                          CONTENT="my"
+                          HEIGHT="36"
+                          WIDTH="63"
+                          VPOS="2158"
+                          HPOS="3326">my</String>
+                  <SP WIDTH="26" VPOS="2160" HPOS="3390"> </SP>
+                  <String WC="0.82499998807907104"
+                          CONTENT="grief."
+                          HEIGHT="47"
+                          WIDTH="103"
+                          VPOS="2147"
+                          HPOS="3417">grief.</String>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="Page1_Block13"
+                       HEIGHT="157"
+                       WIDTH="3413"
+                       VPOS="2651"
+                       HPOS="173"
+                       language="en-US">
+               <Shape>
+                  <Polygon POINTS="3570,2661 3585,2661 3585,2664 3586,2664 3586,2786 3559,2786 3559,2787 3492,2787 3492,2788 3459,2788 3459,2789 3419,2789 3419,2790 3313,2790 3313,2791 3167,2791 3167,2792 2148,2792 2148,2793 2123,2793 2123,2794 1857,2794 1857,2795 1565,2795 1565,2796 1420,2796 1420,2797 1347,2797 1347,2798 1274,2798 1274,2799 1238,2799 1238,2800 1129,2800 1129,2801 983,2801 983,2802 939,2802 939,2803 827,2803 827,2804 726,2804 726,2805 692,2805 692,2806 670,2806 670,2807 546,2807 546,2808 426,2808 426,2807 382,2807 382,2806 356,2806 356,2805 328,2805 328,2804 300,2804 300,2803 247,2803 247,2802 214,2802 214,2801 181,2801 181,2800 176,2800 176,2799 174,2799 174,2680 173,2680 173,2675 1226,2675 1226,2674 1272,2674 1272,2673 1343,2673 1343,2672 1418,2672 1418,2671 1498,2671 1498,2670 1595,2670 1595,2669 2001,2669 2001,2668 2146,2668 2146,2667 2334,2667 2334,2666 2438,2666 2438,2665 2729,2665 2729,2664 3457,2664 3457,2663 3503,2663 3503,2662 3570,2662 3570,2661"/>
+               </Shape>
+               <TextLine HEIGHT="96" WIDTH="3308" VPOS="2660" HPOS="270">
+                  <String WC="0.79333335161209106"
+                          CONTENT="The"
+                          HEIGHT="39"
+                          WIDTH="79"
+                          VPOS="2703"
+                          HPOS="270">The</String>
+                  <SP WIDTH="23" VPOS="2715" HPOS="350"> </SP>
+                  <String WC="0.88599997758865356"
+                          CONTENT="above"
+                          HEIGHT="41"
+                          WIDTH="117"
+                          VPOS="2702"
+                          HPOS="374">above</String>
+                  <SP WIDTH="22" VPOS="2705" HPOS="492"> </SP>
+                  <String WC="0.76999998092651367"
+                          CONTENT="tune"
+                          HEIGHT="36"
+                          WIDTH="88"
+                          VPOS="2703"
+                          HPOS="515">tune</String>
+                  <SP WIDTH="15" VPOS="2711" HPOS="604"> </SP>
+                  <String WC="0.86000001430511475"
+                          CONTENT="was"
+                          HEIGHT="27"
+                          WIDTH="78"
+                          VPOS="2709"
+                          HPOS="620">was</String>
+                  <SP WIDTH="15" VPOS="2703" HPOS="699"> </SP>
+                  <String WC="0.93599998950958252"
+                          CONTENT="taken"
+                          HEIGHT="38"
+                          WIDTH="113"
+                          VPOS="2699"
+                          HPOS="715">taken</String>
+                  <SP WIDTH="25" VPOS="2699" HPOS="829"> </SP>
+                  <String WC="0.86500000953674316"
+                          CONTENT="from"
+                          HEIGHT="34"
+                          WIDTH="91"
+                          VPOS="2699"
+                          HPOS="855">from</String>
+                  <SP WIDTH="23" VPOS="2698" HPOS="947"> </SP>
+                  <String WC="0.89636361598968506"
+                          CONTENT="Pillsbury’s"
+                          HEIGHT="47"
+                          WIDTH="215"
+                          VPOS="2695"
+                          HPOS="971">Pillsbury’s</String>
+                  <SP WIDTH="23" VPOS="2705" HPOS="1187"> </SP>
+                  <String WC="0.83166664838790894"
+                          CONTENT="publications"
+                          HEIGHT="47"
+                          WIDTH="240"
+                          VPOS="2691"
+                          HPOS="1211">publications</String>
+                  <SP WIDTH="24" VPOS="2691" HPOS="1452"> </SP>
+                  <String WC="0.79500001668930054"
+                          CONTENT="in"
+                          HEIGHT="35"
+                          WIDTH="35"
+                          VPOS="2691"
+                          HPOS="1477">in</String>
+                  <SP WIDTH="21" VPOS="2702" HPOS="1513"> </SP>
+                  <String WC="0.54600000381469727"
+                          CONTENT="1790."
+                          HEIGHT="36"
+                          WIDTH="93"
+                          VPOS="2700"
+                          HPOS="1535">1790.</String>
+                  <SP WIDTH="51" VPOS="2688" HPOS="1629"> </SP>
+                  <String WC="1."
+                          CONTENT="The"
+                          HEIGHT="38"
+                          WIDTH="79"
+                          VPOS="2688"
+                          HPOS="1681">The</String>
+                  <SP WIDTH="14" VPOS="2699" HPOS="1761"> </SP>
+                  <String WC="1."
+                          CONTENT="words"
+                          HEIGHT="37"
+                          WIDTH="121"
+                          VPOS="2687"
+                          HPOS="1776">words</String>
+                  <SP WIDTH="21" VPOS="2687" HPOS="1898"> </SP>
+                  <String WC="0.81999999284744263"
+                          CONTENT="have"
+                          HEIGHT="37"
+                          WIDTH="98"
+                          VPOS="2686"
+                          HPOS="1920">have</String>
+                  <SP WIDTH="24" VPOS="2685" HPOS="2019"> </SP>
+                  <String WC="0.94999998807907104"
+                          CONTENT="been"
+                          HEIGHT="37"
+                          WIDTH="89"
+                          VPOS="2685"
+                          HPOS="2044">been</String>
+                  <SP WIDTH="17" VPOS="2685" HPOS="2134"> </SP>
+                  <String WC="0.93500000238418579"
+                          CONTENT="in"
+                          HEIGHT="35"
+                          WIDTH="35"
+                          VPOS="2684"
+                          HPOS="2152">in</String>
+                  <SP WIDTH="19" VPOS="2695" HPOS="2188"> </SP>
+                  <String WC="0.79000002145767212"
+                          CONTENT="many"
+                          HEIGHT="34"
+                          WIDTH="110"
+                          VPOS="2693"
+                          HPOS="2208">many</String>
+                  <SP WIDTH="16" VPOS="2693" HPOS="2319"> </SP>
+                  <String WC="1."
+                          CONTENT="song"
+                          HEIGHT="34"
+                          WIDTH="92"
+                          VPOS="2692"
+                          HPOS="2336">song</String>
+                  <SP WIDTH="24" VPOS="2681" HPOS="2429"> </SP>
+                  <String WC="0.96399998664855957"
+                          CONTENT="books"
+                          HEIGHT="37"
+                          WIDTH="117"
+                          VPOS="2680"
+                          HPOS="2454">books</String>
+                  <SP WIDTH="17" VPOS="2690" HPOS="2572"> </SP>
+                  <String WC="0.87599998712539673"
+                          CONTENT="since"
+                          HEIGHT="35"
+                          WIDTH="97"
+                          VPOS="2680"
+                          HPOS="2590">since</String>
+                  <SP WIDTH="15" VPOS="2683" HPOS="2688"> </SP>
+                  <String WC="0.89399999380111694"
+                          CONTENT="then."
+                          HEIGHT="37"
+                          WIDTH="102"
+                          VPOS="2679"
+                          HPOS="2704">then.</String>
+                  <SP WIDTH="49" VPOS="2676" HPOS="2807"> </SP>
+                  <String WC="1."
+                          CONTENT="“"
+                          HEIGHT="18"
+                          WIDTH="25"
+                          VPOS="2675"
+                          HPOS="2857">“</String>
+                  <SP WIDTH="13" VPOS="2675" HPOS="2883"> </SP>
+                  <String WC="0.93000000715255737"
+                          CONTENT="Pillsbury"
+                          HEIGHT="47"
+                          WIDTH="181"
+                          VPOS="2672"
+                          HPOS="2897">Pillsbury</String>
+                  <SP WIDTH="14" VPOS="2674" HPOS="3079"> </SP>
+                  <String WC="1."
+                          CONTENT="”"
+                          HEIGHT="17"
+                          WIDTH="23"
+                          VPOS="2675"
+                          HPOS="3094">”</String>
+                  <SP WIDTH="18" VPOS="2675" HPOS="3118"> </SP>
+                  <String WC="0.67000001668930054"
+                          CONTENT="is"
+                          HEIGHT="35"
+                          WIDTH="30"
+                          VPOS="2674"
+                          HPOS="3137">is</String>
+                  <SP WIDTH="16" VPOS="2684" HPOS="3168"> </SP>
+                  <String WC="0.99199998378753662"
+                          CONTENT="understood"
+                          HEIGHT="39"
+                          WIDTH="221"
+                          VPOS="2671"
+                          HPOS="3185">understood</String>
+                  <SP WIDTH="22" VPOS="2672" HPOS="3407"> </SP>
+                  <String WC="0.91500002145767212"
+                          CONTENT="to"
+                          HEIGHT="35"
+                          WIDTH="38"
+                          VPOS="2674"
+                          HPOS="3430">to</String>
+                  <SP WIDTH="24" VPOS="2671" HPOS="3469"> </SP>
+                  <String WC="1."
+                          CONTENT="be"
+                          HEIGHT="37"
+                          WIDTH="43"
+                          VPOS="2670"
+                          HPOS="3494">be</String>
+                  <SP WIDTH="16" VPOS="2681" HPOS="3538"> </SP>
+                  <String WC="1."
+                          CONTENT="a"
+                          HEIGHT="25"
+                          WIDTH="23"
+                          VPOS="2682"
+                          HPOS="3555">a</String>
+               </TextLine>
+               <TextLine HEIGHT="91" WIDTH="2735" VPOS="2716" HPOS="182">
+                  <String WC="0.81199997663497925"
+                          CONTENT="large"
+                          HEIGHT="45"
+                          WIDTH="95"
+                          VPOS="2749"
+                          HPOS="182">large</String>
+                  <SP WIDTH="16" VPOS="2749" HPOS="278"> </SP>
+                  <String WC="1."
+                          CONTENT="hymn"
+                          HEIGHT="47"
+                          WIDTH="116"
+                          VPOS="2749"
+                          HPOS="295">hymn</String>
+                  <SP WIDTH="17" VPOS="2758" HPOS="412"> </SP>
+                  <String WC="0.97333335876464844"
+                          CONTENT="and"
+                          HEIGHT="37"
+                          WIDTH="72"
+                          VPOS="2747"
+                          HPOS="430">and</String>
+                  <SP WIDTH="17" VPOS="2747" HPOS="503"> </SP>
+                  <String WC="0.87250000238418579"
+                          CONTENT="note"
+                          HEIGHT="36"
+                          WIDTH="83"
+                          VPOS="2748"
+                          HPOS="521">note</String>
+                  <SP WIDTH="16" VPOS="2745" HPOS="605"> </SP>
+                  <String WC="1."
+                          CONTENT="book,"
+                          HEIGHT="46"
+                          WIDTH="110"
+                          VPOS="2743"
+                          HPOS="622">book,</String>
+                  <SP WIDTH="18" VPOS="2756" HPOS="733"> </SP>
+                  <String WC="1."
+                          CONTENT="and"
+                          HEIGHT="36"
+                          WIDTH="71"
+                          VPOS="2744"
+                          HPOS="752">and</String>
+                  <SP WIDTH="16" VPOS="2743" HPOS="824"> </SP>
+                  <String WC="0.90499997138977051"
+                          CONTENT="is"
+                          HEIGHT="35"
+                          WIDTH="31"
+                          VPOS="2743"
+                          HPOS="841">is</String>
+                  <SP WIDTH="16" VPOS="2753" HPOS="873"> </SP>
+                  <String WC="0.98500001430511475"
+                          CONTENT="supposed"
+                          HEIGHT="45"
+                          WIDTH="183"
+                          VPOS="2740"
+                          HPOS="890">supposed</String>
+                  <SP WIDTH="14" VPOS="2740" HPOS="1074"> </SP>
+                  <String WC="1."
+                          CONTENT="to"
+                          HEIGHT="36"
+                          WIDTH="37"
+                          VPOS="2742"
+                          HPOS="1089">to</String>
+                  <SP WIDTH="16" VPOS="2740" HPOS="1127"> </SP>
+                  <String WC="1."
+                          CONTENT="have"
+                          HEIGHT="37"
+                          WIDTH="96"
+                          VPOS="2739"
+                          HPOS="1144">have</String>
+                  <SP WIDTH="16" VPOS="2741" HPOS="1241"> </SP>
+                  <String WC="0.75999999046325684"
+                          CONTENT="been"
+                          HEIGHT="37"
+                          WIDTH="90"
+                          VPOS="2739"
+                          HPOS="1258">been</String>
+                  <SP WIDTH="15" VPOS="2749" HPOS="1349"> </SP>
+                  <String WC="0.92000001668930054"
+                          CONTENT="written"
+                          HEIGHT="38"
+                          WIDTH="144"
+                          VPOS="2736"
+                          HPOS="1365">written</String>
+                  <SP WIDTH="17" VPOS="2736" HPOS="1510"> </SP>
+                  <String WC="1."
+                          CONTENT="by"
+                          HEIGHT="46"
+                          WIDTH="49"
+                          VPOS="2734"
+                          HPOS="1528">by</String>
+                  <SP WIDTH="17" VPOS="2736" HPOS="1578"> </SP>
+                  <String WC="0.90333330631256104"
+                          CONTENT="Mr."
+                          HEIGHT="37"
+                          WIDTH="67"
+                          VPOS="2735"
+                          HPOS="1595">Mr.</String>
+                  <SP WIDTH="21" VPOS="2733" HPOS="1663"> </SP>
+                  <String WC="0.80900001525878906"
+                          CONTENT="Pillsbury."
+                          HEIGHT="47"
+                          WIDTH="194"
+                          VPOS="2730"
+                          HPOS="1685">Pillsbury.</String>
+                  <SP WIDTH="49" VPOS="2730" HPOS="1880"> </SP>
+                  <String WC="1."
+                          CONTENT="See"
+                          HEIGHT="37"
+                          WIDTH="68"
+                          VPOS="2730"
+                          HPOS="1930">See</String>
+                  <SP WIDTH="17" VPOS="2729" HPOS="1999"> </SP>
+                  <String WC="0.88333332538604736"
+                          CONTENT="James’"
+                          HEIGHT="39"
+                          WIDTH="139"
+                          VPOS="2728"
+                          HPOS="2017">James’</String>
+                  <SP WIDTH="18" VPOS="2727" HPOS="2157"> </SP>
+                  <String WC="1."
+                          CONTENT="“"
+                          HEIGHT="17"
+                          WIDTH="25"
+                          VPOS="2727"
+                          HPOS="2176">“</String>
+                  <SP WIDTH="15" VPOS="2727" HPOS="2202"> </SP>
+                  <String WC="0.97428572177886963"
+                          CONTENT="History"
+                          HEIGHT="45"
+                          WIDTH="150"
+                          VPOS="2727"
+                          HPOS="2218">History</String>
+                  <SP WIDTH="14" VPOS="2737" HPOS="2369"> </SP>
+                  <String WC="0.88499999046325684"
+                          CONTENT="of"
+                          HEIGHT="35"
+                          WIDTH="37"
+                          VPOS="2727"
+                          HPOS="2384">of</String>
+                  <SP WIDTH="16" VPOS="2724" HPOS="2422"> </SP>
+                  <String WC="0.92333334684371948"
+                          CONTENT="Sacred"
+                          HEIGHT="38"
+                          WIDTH="131"
+                          VPOS="2724"
+                          HPOS="2439">Sacred</String>
+                  <SP WIDTH="17" VPOS="2724" HPOS="2571"> </SP>
+                  <String WC="0.85000002384185791"
+                          CONTENT="Harp,”"
+                          HEIGHT="44"
+                          WIDTH="143"
+                          VPOS="2723"
+                          HPOS="2589">Harp,”</String>
+                  <SP WIDTH="17" VPOS="2723" HPOS="2733"> </SP>
+                  <String WC="1."
+                          CONTENT="page"
+                          HEIGHT="34"
+                          WIDTH="92"
+                          VPOS="2732"
+                          HPOS="2751">page</String>
+                  <SP WIDTH="17" VPOS="2733" HPOS="2844"> </SP>
+                  <String WC="0.77999997138977051"
+                          CONTENT="22."
+                          HEIGHT="27"
+                          WIDTH="55"
+                          VPOS="2731"
+                          HPOS="2862">22.</String>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>
